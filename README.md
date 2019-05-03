@@ -1,4 +1,4 @@
-Use keys to move the tiles. Each turn, a new tile will randomly appear 2.
+Use "w","a","s","d" to move the tiles. Each turn, a new tile will randomly appear 2.
 
 When two tiles of the same number collide, they will merge and double the number.
 
