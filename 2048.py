@@ -1,3 +1,7 @@
+# AUTHOR: HAOCHEN GOU
+
+
+
 import random as rnd
 import os
 import sys
